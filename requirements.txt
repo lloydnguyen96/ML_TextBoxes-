@@ -1,0 +1,48 @@
+absl-py==0.9.0
+astor==0.8.0
+certifi==2020.6.20
+cycler==0.10.0
+flake8==3.8.3
+gast==0.3.3
+google-pasta==0.2.0
+greenlet==0.4.16
+grpcio==1.27.2
+h5py==2.10.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1593446408836/work
+jedi==0.17.2
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+kiwisolver==1.2.0
+Markdown==3.1.1
+matplotlib==3.3.1
+mccabe==0.6.1
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.0
+neovim==0.3.1
+numpy==1.18.1
+olefile==0.46
+opencv-python==4.4.0.42
+parso==0.7.1
+Pillow @ file:///tmp/build/80754af9/pillow_1594307325547/work
+protobuf==3.12.3
+pycodestyle==2.6.0
+pyflakes==2.2.0
+pynvim==0.4.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502882224/work
+scipy==1.4.1
+Shapely==1.7.0
+six==1.15.0
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp==3.1.0
